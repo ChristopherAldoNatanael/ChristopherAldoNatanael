@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christopheraldo&label=Profile%20views&color=0e75b6&style=flat" alt="christopheraldo" />
-  <img src="https://img.shields.io/github/followers/christopheraldo?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=ChristopherAldoNatanael&label=Profile%20views&color=0e75b6&style=flat" alt="christopheraldo" />
+  <img src="https://img.shields.io/github/followers/ChristopherAldoNatanael?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** who l
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChristopherAldoNatanael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=christopheraldo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherAldoNatanael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@ I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** who l
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christopheraldo&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChristopherAldoNatanael&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -80,7 +80,7 @@ I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** who l
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christopheraldo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristopherAldoNatanael&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
