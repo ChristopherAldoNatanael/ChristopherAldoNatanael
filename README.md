@@ -1,14 +1,145 @@
-<h1 align="center">Hi 👋, I'm Christopher Aldo Natanael</h1>
-<h3 align="center">"Never give up, starting is always the hardest thing." want to become a Full stack Web developer, App developer😁</h3>
+# 👋 Hi there, I'm Christopher Aldo Natanael
 
-- 🌱 I’m currently learning **Framework, Frontend Dev, Backend Dev,App Development**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Always+Learning+New+Technologies;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</div>
 
-- ⚡ Fun fact **Stress with coding but fun👌**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/christopher.aldoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/christopher.aldoo/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=christopheraldo&label=Profile%20views&color=0e75b6&style=flat" alt="christopheraldo" />
+  <img src="https://img.shields.io/github/followers/christopheraldo?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+> *"Never give up, starting is always the hardest thing."*
+
+I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** who loves turning ideas into reality through code. Currently on an exciting journey of continuous learning and growth in the tech world.
+
+- 🔭 Currently working on **Full Stack Web Applications** and **Mobile Apps**
+- 🌱 Learning **Modern Frameworks**, **Cloud Technologies**, and **Advanced Backend Development**
+- 💡 Always exploring new technologies and best practices
+- ⚡ Fun fact: **I get stressed with coding but it's incredibly fun! 👌**
+- 🎯 Goal: **Building impactful applications that solve real-world problems**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChristopherAldoNatanael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=christopheraldo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAldoNatanael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christopheraldo&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christopheraldo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Learning Path
+
+```javascript
+const christopher = {
+    currentFocus: "Full Stack Development",
+    learning: [
+        "Advanced React & Next.js",
+        "Node.js & Express.js",
+        "Docker & Kubernetes",
+        "AWS Cloud Services",
+        "Flutter Development"
+    ],
+    askMeAbout: ["Web Development", "Mobile Apps", "Database Design"],
+    technologies: {
+        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind CSS"],
+        backend: ["PHP", "Python", "MySQL"],
+        mobile: ["Android", "Kotlin"],
+        tools: ["Git", "VS Code", "Android Studio"]
+    },
+    currentChallenge: "Building scalable full-stack applications 🚀"
+};
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  
+### 🚧 *Coming Soon* 🚧
+*Working on some amazing projects that will be showcased here soon!*
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<p>I'm always interested in collaborating on exciting projects and connecting with fellow developers!</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christopher.aldoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  
+  **Thanks for visiting my profile! Have a great day! 😊**
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+</div>
