@@ -60,7 +60,7 @@ class Developer {
 
 <div align="center">
 
-### 💻 Frontend Magic
+### 💻 Frontend 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,vite" alt="Frontend Skills" />
 </p>
