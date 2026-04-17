@@ -1,33 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Christopher%20Aldo%20Natanael&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3500&pause=2000&color=000000&center=true&vCenter=true&width=480&lines=Christopher+Aldo+Natanael;Full+Stack+%26+Mobile+Developer" alt="name" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Tech+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Building+Digital+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristopherAldoNatanael&label=Profile%20views&color=00F7FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ChristopherAldoNatanael?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00F7FF?style=for-the-badge" alt="focus">
+  Building clean, scalable digital products &nbsp;·&nbsp; Indonesia
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-3B6D11?style=flat-square&labelColor=EAF3DE&color=3B6D11" />
+</p>
 
 ---
 
-## 🎯 About Me
+### About
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+I'm a software developer focused on crafting thoughtful web and mobile experiences.
+My work sits at the intersection of clean architecture and practical problem-solving —
+writing code that's meant to be maintained, not just shipped.
 
-```typescript
-class Developer {
-    name: string = "Christopher Aldo Natanael";
-    location: string = "Indonesia 🇮🇩";
-    role: string = "Full Stack Developer";
-    
+Currently exploring: distributed systems, mobile-first design, and developer tooling.
+
+---
+
+### Stack
+
+**Frontend** &nbsp;
+`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
+
+**Backend** &nbsp;
+`Node.js` &nbsp; `Express` &nbsp; `PostgreSQL` &nbsp; `REST` &nbsp; `GraphQL`
+
+**Mobile** &nbsp;
+`React Native` &nbsp; `Expo`
+
+**Tooling** &nbsp;
+`Docker` &nbsp; `Git` &nbsp; `Linux` &nbsp; `Figma`
+
+---
+
+### Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| —       | —           | —     |
+
+*Projects will be listed here as they go public.*
+
+---
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChristopherAldoNatanael&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" height="130" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAldoNatanael&layout=compact&hide_border=true&theme=default" height="130" />
+
+---
+
+### Contact
+
+- **Email** — [your@email.com](christophernatanael123@gmail.com)
+- **LinkedIn** — [linkedin.com/in/yourprofile](https://www.linkedin.com/in/christopher-aldo-2497b735a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Portfolio** — [yourwebsite.com](https://christopher-aldo.vercel.app/)
+
+---
+
+<sub>Open to freelance projects, collaborations, and full-time opportunities.</sub>    
     getMotivation(): string {
         return "Never give up, starting is always the hardest thing ⚡";
     }
