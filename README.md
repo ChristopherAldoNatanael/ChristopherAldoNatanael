@@ -28,7 +28,9 @@ Building clean, scalable digital products at the intersection of architecture an
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/username) · [Email](mailto:your@email.com) · [Portfolio](https://yoursite.com)
+[LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/christopher-aldo-2497b735a?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
+·[Email](christophernatanael123@email.com) 
+·[Portfolio](https://christopher-aldo.vercel.app/)
 
 ---
 
