@@ -2,7 +2,7 @@
 <p align="center">Full Stack &amp; Mobile Developer — Indonesia</p>
 
 <p align="center">
-  <a href="https://christopher-aldo.vercel.app/">Portfolio</a> ·
+  <a href="https://christopheraldo.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/christopher-aldo-2497b735a">LinkedIn</a> ·
   <a href="mailto:christophernatanael123@email.com">Email</a>
 </p>
@@ -66,7 +66,7 @@ Foundational work that traces the trajectory from vocational fundamentals to ful
 ## Get in Touch
 
 <p align="center">
-  <a href="https://christopher-aldo.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://christopheraldo.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/christopher-aldo-2497b735a"><b>LinkedIn</b></a> &nbsp;|&nbsp;
   <a href="mailto:christophernatanael123@email.com"><b>Email</b></a>
 </p>
