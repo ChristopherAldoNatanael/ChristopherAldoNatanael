@@ -1,47 +1,74 @@
-# Christopher Aldo Natanael
+<h1 align="center">Christopher Aldo Natanael</h1>
+<p align="center">Full Stack &amp; Mobile Developer — Indonesia</p>
 
-Full Stack & Mobile Developer · Indonesia
+<p align="center">
+  <a href="https://christopher-aldo.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/christopher-aldo-2497b735a">LinkedIn</a> ·
+  <a href="mailto:christophernatanael123@email.com">Email</a>
+</p>
+
+---
 
 I build web and mobile applications with an emphasis on clean architecture, long-term maintainability, and interfaces that actually feel good to use.
 
----
-
-## Stack
-
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS  
-**Mobile** — Flutter, React Native, Kotlin  
-**Backend** — Node.js, Laravel, PostgreSQL, Prisma, REST API  
-**Game** — Godot (GDScript)  
-**Tooling** — Git, Docker, Vercel, Supabase
+> Software should be designed to evolve — not just to work today, but to remain understandable and maintainable as requirements change and teams grow. I think a lot about how decisions made early in a project compound over time, and try to make ones I won't regret.
 
 ---
 
-## Projects
+## Tech Stack
 
-| Project | Description | Stack |
+**Frontend**
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+**Mobile**
+`Flutter` · `React Native` · `Kotlin`
+
+**Backend**
+`Node.js` · `Laravel` · `PostgreSQL` · `Prisma` · `REST API`
+
+**Game Development**
+`Godot` · `GDScript`
+
+**Tooling & DevOps**
+`Git` · `Docker` · `Vercel` · `Supabase`
+
+---
+
+## Featured Projects
+
+Production-oriented builds — modern stack, full transaction flows, and real UI/UX consideration.
+
+| Project | Stack | Description |
 |---|---|---|
-| [Website-Laundry-Bisnis](https://github.com/ChristopherAldoNatanael/Website-Laundry-Bisnis) | Business laundry management platform with modern UI and full transaction flow. | TypeScript · Next.js |
-| [Laundry-Website](https://github.com/ChristopherAldoNatanael/Laundry-Website) | Laundry service website focused on clean user experience and responsive design. | TypeScript |
-| [Banyuwangi-Website](https://github.com/ChristopherAldoNatanael/Banyuwangi-Website) | Regional tourism and information website for Banyuwangi. | TypeScript |
-| [Kelas-XI](https://github.com/ChristopherAldoNatanael/Kelas-XI) | Android mobile application built during vocational school — grade XI projects. | Kotlin |
-| [Belajar-Laravel](https://github.com/ChristopherAldoNatanael/Belajar-Laravel) | Full-stack restaurant app with complete backend — Ayam Goreng Jos Gandos. | Laravel · Blade |
-| [Laravel-TokoOnline](https://github.com/ChristopherAldoNatanael/Laravel-TokoOnline) | Online store built with Laravel, featuring product and order management. | Laravel · Blade |
-| [ProjectGame2D](https://github.com/ChristopherAldoNatanael/ProjectGame2D) | 2D game project built with Godot engine as a solo side project. | GDScript · Godot |
-| [ProjectGameTim](https://github.com/ChristopherAldoNatanael/ProjectGameTim) | Collaborative 2D game built as a team project using Godot. | GDScript · Godot |
-| [UJI-KOMPETENSI](https://github.com/ChristopherAldoNatanael/UJI-KOMPETENSI) | Vocational competency exam project. | Java |
-| [UI-UX](https://github.com/ChristopherAldoNatanael/UI-UX) | UI/UX design experiments and frontend prototypes. | HTML · CSS |
-| [Kelas-X](https://github.com/ChristopherAldoNatanael/Kelas-X) | Web projects from grade X — early full-stack work with PHP. | PHP |
+| **[Website-Laundry-Bisnis](https://github.com/ChristopherAldoNatanael/Website-Laundry-Bisnis)** | Next.js · TypeScript | Business laundry management platform with a modern UI and a complete transaction flow. |
+| **[Laundry-Website](https://github.com/ChristopherAldoNatanael/Laundry-Website)** | TypeScript | Laundry service website focused on clean UX and responsive design. |
+| **[Banyuwangi-Website](https://github.com/ChristopherAldoNatanael/Banyuwangi-Website)** | TypeScript | Regional tourism and information platform for Banyuwangi. |
+| **[Belajar-Laravel](https://github.com/ChristopherAldoNatanael/Belajar-Laravel)** | Laravel · Blade | Full-stack restaurant application with complete backend logic — *Ayam Goreng Jos Gandos*. |
+| **[Laravel-TokoOnline](https://github.com/ChristopherAldoNatanael/Laravel-TokoOnline)** | Laravel · Blade | Online store with product catalog and order management. |
+| **[ProjectGameTim](https://github.com/ChristopherAldoNatanael/ProjectGameTim)** | Godot · GDScript | Collaborative 2D game built with a team — version control workflow and shared architecture. |
+| **[ProjectGame2D](https://github.com/ChristopherAldoNatanael/ProjectGame2D)** | Godot · GDScript | Solo 2D game project — core gameplay systems built from scratch. |
 
 ---
 
-## On Building Software
+## Academic & Exploration Milestones
 
-Software should be designed to evolve — not just to work today, but to remain understandable and maintainable as requirements change and teams grow. I think a lot about how decisions made early in a project compound over time, and try to make ones I won't regret.
+Foundational work that traces the trajectory from vocational fundamentals to full-stack proficiency.
+
+| Project | Stack | Description |
+|---|---|---|
+| **[Kelas-XI](https://github.com/ChristopherAldoNatanael/Kelas-XI)** | Kotlin | Android application development — grade XI coursework. |
+| **[UJI-KOMPETENSI](https://github.com/ChristopherAldoNatanael/UJI-KOMPETENSI)** | Java | Vocational competency exam project. |
+| **[UI-UX](https://github.com/ChristopherAldoNatanael/UI-UX)** | HTML · CSS | Design experiments and early frontend prototyping. |
+| **[Kelas-X](https://github.com/ChristopherAldoNatanael/Kelas-X)** | PHP | Early full-stack work — grade X coursework. |
 
 ---
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/christopher-aldo-2497b735a) · [Email](mailto:christophernatanael123@email.com) · [Portfolio](https://christopher-aldo.vercel.app/)
+<p align="center">
+  <a href="https://christopher-aldo.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/christopher-aldo-2497b735a"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:christophernatanael123@email.com"><b>Email</b></a>
+</p>
 
-Open to collaboration and new opportunities.
+<p align="center"><sub>Open to full-stack, mobile, and collaborative product work.</sub></p>
